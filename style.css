@@ -1,0 +1,103 @@
+#pprinci
+{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    color: antiquewhite;
+}
+
+#ps
+{
+    text-align: center;
+    font-size: 30px;
+}
+
+#h1princi
+{
+    text-align: center;
+    font-size: 100px;
+    padding: 15px;
+    border: 7px solid aliceblue;
+    margin: 0px;
+    color: antiquewhite;
+}
+
+#h1ls
+{
+    text-align: center;
+    font-size: 100px;
+    padding: 15px;
+    border: 7px solid rgb(49, 51, 53);
+    margin: 0px;
+    color: rgb(39, 90, 134);
+}
+
+#h1sp
+{
+    text-align: center;
+    font-size: 100px;
+    padding: 15px;
+    border: 7px solid rgb(76, 34, 3);
+    margin: 0px;
+    color: rgb(118, 54, 5);
+}
+
+#h1pv
+{
+    text-align: center;
+    font-size: 100px;
+    padding: 15px;
+    border: 7px solid rgb(43, 1, 60);
+    margin: 0px;
+    color: rgb(103, 4, 145);
+}
+
+.espaco
+{
+    padding: 50px;
+}
+
+.espaco2
+{
+    padding: 25px;
+}
+
+.bloco1 {
+    position: relative;
+    top: 230px;
+    left: 10%;
+    width: 300px;
+    height: 300px;
+    background-color: rgba(255, 0, 0, 0.227);
+    margin: 0%;
+    z-index: 1;
+}
+
+.subt
+{
+    font-size: larger;
+    color: violet;
+}
+
+.subts
+{
+    font-size: larger;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+
+/*
+<nav>
+        <ul>
+
+            <li><a href="paginas\LE.html" target="_blank">Espaços Liminares</a></li>
+            <li><a href="paginas\SP.html" target="_blank">Steam Punk</a></li>
+            <li><a href="paginas\PV.html" target="_blank">Paisagens Vibes</a>
+            </li>
+
+        </ul>
+    </nav>
