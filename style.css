@@ -1,0 +1,62 @@
+p,
+form {
+    font-size: 300%;
+    color: #732735;
+}
+
+p {
+    font-family: 'Augusta', Times, serif;
+}
+
+#princtext {
+    text-align: center;
+}
+
+#orien {
+    margin-left: 50px;
+    display: block;
+}
+
+
+/*#sick{
+    font-family: 'Slipknot', Times, serif;
+}*/
+
+#form {
+    font-family: 'London', Times, serif;
+    ;
+    margin-top: 600px;
+}
+
+h1 {
+    text-align: center;
+    margin: 40px;
+    font-size: 100px;
+    font-family: 'London', Times, serif;
+    color: #401722;
+}
+
+#olho {
+    margin: 0%;
+    position: absolute;
+    top: 135%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+#pacto {
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 35px;
+    font-family: 'London', Times, serif;
+    color: #0D0A0C;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+}
